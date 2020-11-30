@@ -1,0 +1,13 @@
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\bin\Debug\netcoreapp3.1\Class Task Array List.exe
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\bin\Debug\netcoreapp3.1\Class Task Array List.deps.json
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\bin\Debug\netcoreapp3.1\Class Task Array List.runtimeconfig.json
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\bin\Debug\netcoreapp3.1\Class Task Array List.runtimeconfig.dev.json
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\bin\Debug\netcoreapp3.1\Class Task Array List.dll
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\bin\Debug\netcoreapp3.1\Class Task Array List.pdb
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.csprojAssemblyReference.cache
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.AssemblyInfoInputs.cache
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.AssemblyInfo.cs
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.csproj.CoreCompileInputs.cache
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.dll
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.pdb
+G:\Ragib\8 semester\c # Lab\Class Task Array List\Class Task Array List\obj\Debug\netcoreapp3.1\Class Task Array List.genruntimeconfig.cache
